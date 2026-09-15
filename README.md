@@ -39,7 +39,7 @@ https://portugol.dev/#share=paokgii
    **F = (C × 9 / 5) + 32**
 
 Ex5
-
+https://portugol.dev/#share=5jj3lxv
 
 6. Leia o raio de um círculo e calcule sua área. Considere π = 3,14.\
    **Área = π × raio²**
@@ -120,12 +120,12 @@ https://portugol.dev/#share=rxra6jw
     `Meu nome é Ana, tenho 20 anos e moro em Contagem.`
 
 Ex18
-
+https://portugol.dev/#share=3nw6et4
 
 19. Leia o primeiro nome e o sobrenome de uma pessoa e monte um nome de usuário juntando os dois.
 
 Ex19
-
+https://portugol.dev/#share=uwq9mt4
 
 20. Crie um programa que leia os seguintes dados de um aluno:
 
@@ -138,3 +138,4 @@ Ex19
     Depois, exiba todos os dados organizados na tela.
 
 Ex20
+https://portugol.dev/#share=9vyszua
