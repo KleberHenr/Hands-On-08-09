@@ -12,11 +12,14 @@
 &#x20;   Entrada: `10`\
 &#x20;   Saída: `Antecessor = 9 | Sucessor = 11`
 
-https://portugol.dev/#share=lothycs
+  https://portugol.dev/#share=w5tkpqm
 
 2. Crie um algoritmo que leia um número e mostre seu dobro e triplo.
-3. Crie um algoritmo que leia três notas e calcule a média aritmética.
-4. Leia dois números reais e apresente:
+
+   
+
+4. Crie um algoritmo que leia três notas e calcule a média aritmética.
+5. Leia dois números reais e apresente:
 
 * soma;
 * subtração;
