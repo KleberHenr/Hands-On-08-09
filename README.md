@@ -45,7 +45,7 @@ Ex5
    **Área = π × raio²**
 
 Ex6
-
+https://portugol.dev/#share=lbqzc6l
    
 8. Leia a distância percorrida por um veículo em quilômetros e a quantidade de litros de combustível utilizada. Calcule o consumo médio:\
    **Consumo = quilômetros / litros**
@@ -81,34 +81,34 @@ https://portugol.dev/#share=cmk1ke5
 12. Leia um número e verifique, usando uma expressão lógica, se ele está entre x e y.
 
 Ex12
-
+https://portugol.dev/#share=bqtis6m
 
 13. Crie duas variáveis lógicas `a` e `b`. Leia os valores e mostre o resultado de `a e b` (Operador E).
 
 Ex13
-
+https://portugol.dev/#share=4762bjf
 
 14. Leia duas variáveis lógicas e mostre o resultado de `a ou b`(Operador OU).
 
 Ex14
-
+https://portugol.dev/#share=irpw5ld
 
 15. Leia uma variável lógica e mostre seu valor negado(Operador NÃO).
 
 Ex15
-
+https://portugol.dev/#share=b2786gq
 
 16. Leia três valores lógicos `a`, `b` e `c` e calcule:
 
     **(A E B) OU C**
 
 Ex16
-
+https://portugol.dev/#share=kv26mt9
 
 17. Crie as quatro combinações possíveis entre `A` e `B` e mostre o resultado do operador `E` e operador `OU`.
 
 Ex17
-
+https://portugol.dev/#share=rxra6jw
 
 18. Leia:
 
