@@ -43,7 +43,11 @@ Ex5
 
 6. Leia o raio de um círculo e calcule sua área. Considere π = 3,14.\
    **Área = π × raio²**
-7. Leia a distância percorrida por um veículo em quilômetros e a quantidade de litros de combustível utilizada. Calcule o consumo médio:\
+
+Ex6
+
+   
+8. Leia a distância percorrida por um veículo em quilômetros e a quantidade de litros de combustível utilizada. Calcule o consumo médio:\
    **Consumo = quilômetros / litros**
 
 Ex7
@@ -70,14 +74,42 @@ Ex10
 https://portugol.dev/#share=ou9s3w8
 
 11. Leia um número e armazene em uma variável lógica se ele é for um número positivo.
+
+Ex11
+https://portugol.dev/#share=cmk1ke5
+
 12. Leia um número e verifique, usando uma expressão lógica, se ele está entre x e y.
+
+Ex12
+
+
 13. Crie duas variáveis lógicas `a` e `b`. Leia os valores e mostre o resultado de `a e b` (Operador E).
+
+Ex13
+
+
 14. Leia duas variáveis lógicas e mostre o resultado de `a ou b`(Operador OU).
+
+Ex14
+
+
 15. Leia uma variável lógica e mostre seu valor negado(Operador NÃO).
+
+Ex15
+
+
 16. Leia três valores lógicos `a`, `b` e `c` e calcule:
 
     **(A E B) OU C**
+
+Ex16
+
+
 17. Crie as quatro combinações possíveis entre `A` e `B` e mostre o resultado do operador `E` e operador `OU`.
+
+Ex17
+
+
 18. Leia:
 
     * nome;
@@ -86,7 +118,15 @@ https://portugol.dev/#share=ou9s3w8
 
     Exiba uma frase como:\
     `Meu nome é Ana, tenho 20 anos e moro em Contagem.`
+
+Ex18
+
+
 19. Leia o primeiro nome e o sobrenome de uma pessoa e monte um nome de usuário juntando os dois.
+
+Ex19
+
+
 20. Crie um programa que leia os seguintes dados de um aluno:
 
     * nome completo (`cadeia`);
@@ -96,3 +136,5 @@ https://portugol.dev/#share=ou9s3w8
     * informação se está matriculado (`logico`).
 
     Depois, exiba todos os dados organizados na tela.
+
+Ex20
